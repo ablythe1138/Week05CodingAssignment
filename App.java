@@ -7,7 +7,7 @@ public class App {
 		Logger logger = new AsteriskLogger();
 		
 		logger.log("Hello");
-		logger.error("Hello");
+		logger.error("goodbye");
 		
 		Logger logger2 = new SpacedLogger(); 
 		
